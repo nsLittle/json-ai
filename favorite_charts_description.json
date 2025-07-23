@@ -1,0 +1,60 @@
+{
+  "title": "If your favorite chart is...",
+  "style": {
+    "font": "sans-serif",
+    "colors": {
+      "background": "#ffffff",
+      "text": "#1a1a1a",
+      "accent": "#9b59b6",
+      "chartColor": "#8e44ad"
+    },
+    "layout": {
+      "grid": "3x3",
+      "padding": "20px",
+      "alignment": "center"
+    },
+    "image": {
+      "theme": "minimalist",
+      "iconStyle": "flat",
+      "borderRadius": "8px"
+    }
+  },
+  "charts": [
+    {
+      "chart": "Gantt chart",
+      "caption": "You believe everything can be planned, should be planned, and the only chaos you tolerate is color-coded."
+    },
+    {
+      "chart": "Venn diagram",
+      "caption": "You\u2019re constantly overthinking the sweet spot where logic and aesthetics overlap."
+    },
+    {
+      "chart": "Bar graph",
+      "caption": "You\u2019re direct, efficient, and probably judging your friends\u2019 Spotify stats."
+    },
+    {
+      "chart": "Line chart",
+      "caption": "You track everything. Mood. Steps. Emotional volatility. Even this joke\u2019s engagement curve."
+    },
+    {
+      "chart": "Scatter plot",
+      "caption": "You live for nuance and secretly hope correlation does mean causation just this once."
+    },
+    {
+      "chart": "Map",
+      "caption": "You're a spatial thinker and a control freak\u2014you're not lost, everyone else is."
+    },
+    {
+      "chart": "Sankey diagram",
+      "caption": "You think in systems, feel in flows, and explain your relationships using energy transfer."
+    },
+    {
+      "chart": "Radial chart",
+      "caption": "You\u2019re here for vibes, not readability."
+    },
+    {
+      "chart": "Spider chart",
+      "caption": "You\u2019ve definitely over-optimized your D&D character sheet and your dating profile."
+    }
+  ]
+}
